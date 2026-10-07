@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap");
 
 :root {
-  --papier: #f3e9d2;
-  --papier-sombre: #e6d6b3;
-  --encre: #2b2118;
-  --encre-douce: #5a4a3a;
-  --sang: #8b1e1e;
+  --papier: #bfe8f2;
+  --papier-sombre: #006d96;
+  --encre: #ed1c24;
+  --encre-douce: #ffffff;
+  --sang: #880510;
   --mousse: #3f5a2e;
   --nuit: #1c1914;
 }
